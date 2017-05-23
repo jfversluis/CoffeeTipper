@@ -4,8 +4,6 @@
 <dict>
 	<key>CFBundleDisplayName</key>
 	<string>Coffee Tip</string>
-	<key>CFBundleIdentifier</key>
-	<string>com.xamarin.coffee-tip</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -44,5 +42,9 @@
 	<string>UIStatusBarStyleLightContent</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>CFBundleName</key>
+	<string>Coffee Tip</string>
+	<key>CFBundleIdentifier</key>
+	<string>nl.versluis.coffeetip</string>
 </dict>
 </plist>
